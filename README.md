@@ -1,4 +1,4 @@
-# stm32-penwu(main.c in users)
+# stm32-penwu(main.c in user)
 
 main.c in users
 
